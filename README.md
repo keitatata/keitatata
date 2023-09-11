@@ -1,4 +1,14 @@
 ### Hi there 👋
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20{ユーザー名})](https://github.com/{ユーザー名})
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keitatata&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitatata&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=keitatata
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **keitatata/keitatata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
