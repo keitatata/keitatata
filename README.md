@@ -8,9 +8,9 @@
     src="https://raw.githubusercontent.com/keitatata/keitatata/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br></br>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keitatata&" alt="keitatata" />
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=keitatata&" alt="keitatata" />
 </p>
 
 <p>
@@ -18,7 +18,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keitatata&theme=default"
     alt="keitatata" />
 </p>
-
 <p>
   <img align="right" width="49%"
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keitatata&theme=default&utcOffset=9"
@@ -26,11 +25,11 @@
 </p>
 
 <p>
-  <img align="center"
+  <img align="center" width="49%"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keitatata&theme=default"
     alt="keitatata" />
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
