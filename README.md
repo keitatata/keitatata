@@ -19,13 +19,13 @@
     alt="keitatata" />
 </p>
 <p>
-  <img align="right" width="49%"
+  <img align="center"
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keitatata&theme=default&utcOffset=9"
     alt="keitatata" />
 </p>
 
 <p>
-  <img align="center" width="49%"
+  <img align="center"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keitatata&theme=default"
     alt="keitatata" />
 </p>
